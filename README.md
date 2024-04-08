@@ -1,0 +1,1 @@
+# Unity-Core2D-Template-v2022.3.21f
